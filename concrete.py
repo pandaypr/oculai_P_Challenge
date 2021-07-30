@@ -50,7 +50,7 @@ while cap.isOpened():
         # Using Pyramid Mean Shift Filter which is used before segmentation, it improves the pixel count by reducing the shadows from crane for 3rd and 4th frame
         image = cv2.pyrMeanShiftFiltering(cropped, 21, 51)
 
-        # BGR range for Yellow color
+        # BGR range for Grey color
         Grey_MIN = np.array([100, 100, 60], np.uint8)
         Grey_MAX = np.array([170, 200, 180], np.uint8)
 
