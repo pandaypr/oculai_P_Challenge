@@ -15,6 +15,6 @@ This project is part of the Oculai Internship challenge.
 
 ![cropped](https://user-images.githubusercontent.com/25361247/127643946-23847ae9-4f08-4238-a893-2ec32e02a7e8.jpg)
 
-**Sample output image:** ![2](https://user-images.githubusercontent.com/25361247/127644104-bfce6aa4-a3f7-4186-b918-9e132ba4e836.jpg)
+**Sample output image:** ![4](https://user-images.githubusercontent.com/25361247/127657126-92e73485-b9a2-446d-8516-95deea0775cd.jpg)
 
 **Results:** The progress of Concreting and Formwork can be tracked to a fair accuracy by using the method of counting pixels.
