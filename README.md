@@ -1,7 +1,7 @@
 # **Oculai_P_Challenge**
-This project is part of Oculai Internship challenge
+This project is part of the Oculai Internship challenge.
 
-**Task:** Create a script which tracks the progress of various Construction work from the provided video
+**Task:** Create a script which tracks the progress of various Construction work from the provided video.
 
 **Solution:** Task for *Formwork and Concreting* was attempted and the solution is as follows:
 
