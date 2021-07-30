@@ -12,6 +12,7 @@ This project is part of Oculai Internship challenge
             For Concreting tasks, the 4th and 5th frames had strong shadow of the crane in the image, I tried to use various filtering techniques like *Canny Edge               Detection, SimpleBlobDetector, Laplacian Filter, Find Contours & Pyramid Mean Shift Filter*. Results from **Pyramid Mean Shift Filter** were the best               and reliable hence it was kept in the final code. Technique to remove shadows and segmentation was used but due to many noises it didn't perform well.
              
 **Sample cropped image:**
+
 ![cropped](https://user-images.githubusercontent.com/25361247/127643946-23847ae9-4f08-4238-a893-2ec32e02a7e8.jpg)
 
 **Sample output image:** ![2](https://user-images.githubusercontent.com/25361247/127644104-bfce6aa4-a3f7-4186-b918-9e132ba4e836.jpg)
